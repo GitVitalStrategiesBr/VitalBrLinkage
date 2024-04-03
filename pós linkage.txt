@@ -1,0 +1,35 @@
+dia, mes, nome mae, nu_cns -> ds_nome_pac3_sound
+
+
+
+observar: nu_do = 33746173 & 23352848
+
+33086171 & 29159037
+
+se o nome for "RN" - remover par_1
+
+se par_1 == 56052 e ds_nome_pac_3 == 'SILVA' -> mudar o código de par_1 para maximo(par_1) + 2
+
+Par_1 == 2752277 (irmãos?)
+
+
+3083555
+541115
+202741
+109073
+315
+71865
+72330
+165616
+186864
+6521
+8628646
+
+DE CINTIA MARIA OLIVEIRA SANTOS + DE CINTIA MARIA OLIVEIRA SANTOS GEMELAR
+
+
+nome raro (IRYS), dt_nasc, ds_nome_mae, cd_mun
+
+trabalhar o RN
+
+Nome, Nome Mãe, data de nascimento, data de óbito, cd_causabas, se for igual, considerar a mesma pessoa
